@@ -1,28 +1,4 @@
-{
-    "name": "Steve",
-    "age": 20,
-    "isAlive": true,
-    "friends": ["john", "betty", "jake"],
-    "address": {
-        "street": "123 street",
-        "city": "SLC"
-    }
-}
 
-{
-    "data": [
-        {
-            "name": "Steve",
-            "age": 20,
-            "isAlive": true,
-            "friends": ["john", "betty", "jake"],
-            "address": {
-                "street": "123 street",
-                "city": "SLC"
-            }
-        }
-    ]
-}
 
 {
 "item": "appetizers",
@@ -30,3 +6,27 @@
 "ingredients": ["potatoes", "oil", "salt"],
 "discription":"Deep fried potatoes cut into strips"
 }
+{
+    "item": "cold sandwiches",
+    "name": "italian",
+    "ingredients": ["salami", "oil", "tomato"],
+    "discription":"spicy italin"
+    }
+    {
+        "item": "hot sandwiches",
+        "name": "philly cheesestake",
+        "ingredients": ["steak", "swiss cheese", "italian bread"],
+        "discription":"melted cheese on steak sandwich"
+        }
+        {
+            "item": "dessert",
+            "name": "ice cream",
+            "ingredients": ["milk", "cream", "salt"],
+            "discription":"chilled cream"
+            }
+            {
+                "item": "drinks",
+                "name": "coke",
+                "ingredients": ["syrup", "flavoring", "carbonation"],
+                "discription":"carbonated soda drink"
+                }
