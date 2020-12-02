@@ -1,0 +1,32 @@
+ [
+        {
+            "category": "History",
+            "type": "boolean",
+            "difficulty": "Easy",
+            "question": "The Spitfire originated from a racing plane.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "category": "History",
+            "type": "boolean",
+            "difficulty": "Easy",
+            "question": "The United States Department of Homeland Security was formed in response to the September 11th attacks.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "category": "History",
+            "type": "boolean",
+            "difficulty": "Easy",
+            "question": "Adolf Hitler was tried at the Nuremberg trials.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        }
+    ]
