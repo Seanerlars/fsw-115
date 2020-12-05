@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\..\\..\\..\\fsw-110\\week5\\array_exercises"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "create_a_stylized_list"
+	}
+}
