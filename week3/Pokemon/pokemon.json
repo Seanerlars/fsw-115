@@ -1,7 +1,17 @@
-var txt = {
-    results: [
-      
-        
+{
+    "meta": {
+      "limit": 1,
+      "next": null,
+      "offset": 0,
+      "previous": null,
+      "total_count": 1
+    },
+    "objects": [
+      {
+        "created": "2013-11-09T15:14:48.957604",
+        "modified": "2013-11-09T15:14:48.957565",
+        "name": "national",
+        "pokemon": [
           {
             "name": "rattata",
             "resource_uri": "api/v1/pokemon/19/"
@@ -3112,15 +3122,11 @@ var txt = {
           },
           {
             "name": "pyroar",
-            "resource_uri": "api/v1/pokemon/668/"}]}
-
-     
-    
+            "resource_uri": "api/v1/pokemon/668/"
+          }
+        ],
+        "resource_uri": "/api/v1/pokedex/1/"
+      }
+    ]
+  }
   
-  
-
-// var obj = JSON.stringify(txt);
-// document.body.innerHTML = obj
-
-var obj = JSON.parse(txt);
-document.body.innerhtml = obj

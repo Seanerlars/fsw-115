@@ -4,7 +4,7 @@ function getPoke(){
     console.log(xhr)
 
     xhr.onreadystatechange = function(){
-        if(this.readystate === 4 && this.status === 200){
+        if(this.readyState === 4 && this.status === 200){
     console.log(xhr.response)
             let data = JSON.parse(xhr.response)
             console.log(data.results)
@@ -23,6 +23,14 @@ function displayPokeData(data){
         console.log(data[i].name)
     }
 }
+
+
+      
+       
+      
+  
+  
+ 
 
 
 
