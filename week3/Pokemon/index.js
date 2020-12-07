@@ -3119,8 +3119,10 @@ var txt = {
   
   
 
-// var obj = JSON.stringify(txt);
-// document.body.innerHTML = obj
+var obj = JSON.stringify(txt);
+ document.body.innerHTML = obj
 
-var obj = JSON.parse(txt);
-document.body.innerhtml = obj
+// var obj = JSON.parse(txt);
+// document.body.innerhtml = obj
+
+var obj = JSON.parse(txt)
