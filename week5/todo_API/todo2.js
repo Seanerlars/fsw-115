@@ -30,7 +30,7 @@ data.forEach( todo => {
 
     let isComplete = todo.completed
     let completeButtonText = ''
-    isComplete ? completeButtonText = 'Mark Complete' : completeButtonText = 'Mark inomplete'
+    isComplete ? completeButtonText = 'Mark incomplete' : completeButtonText = 'Mark Complete'
     completeButton.innerHTML = completeButtonText
     completeButton.id = todo._id
     completeButton.value = todo.completed

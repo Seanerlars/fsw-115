@@ -1,4 +1,4 @@
-
+// OLD CODE
 //  loadList();
 // function loadList(){
 //    document.querySelector('form').addEventListener('submit',submit);
